@@ -1,0 +1,1 @@
+rd_("CmPayload Encryption -XOR XOR encryption is the simplest to \xe2\x80\xa6ChThere are better ways of securing the encryption key \xe2\x80\xa6ClThis would be a further hardened version. We perform the \xe2\x80\xa6CmThis code snippet below shows a basic encryption function \xe2\x80\xa6")
